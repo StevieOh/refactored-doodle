@@ -7,3 +7,9 @@ function doSomething() {
 
 doSomething();
 doSomething();
+
+
+function anotherFunction() {
+  console.log("this is another function")
+}
+anotherFunction();
